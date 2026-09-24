@@ -47,7 +47,7 @@ Numex Okul'un farkı: her soruyu **bir AI hazırlar, ikinci bir AI bağımsız o
 | 3 | D | D | ✅ **Onaylandı** |
 
 İki yapay zekanın cevabı uyuşmayan soru **teste girmez**. Böylece yanlış cevap anahtarlı soru riski
-en aza iner — [Detective Mode™](https://github.com/mobilcep/numex_nedir/blob/main/urunler/07-deepview.md) yaklaşımının eğitimdeki uygulaması.
+en aza iner — [Detective Mode™](https://github.com/numexai/numex_nedir/blob/main/urunler/07-deepview.md) yaklaşımının eğitimdeki uygulaması.
 
 ## ⚡ Hızlı başla — tek tıkla örnek test
 
@@ -71,8 +71,8 @@ en aza iner — [Detective Mode™](https://github.com/mobilcep/numex_nedir/blob
 
 <div align="center">
 
-**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/mobilcep/numex-codex) · [Okul](https://github.com/mobilcep/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/mobilcep/numex-pedia) · [Hub](https://github.com/mobilcep/numex-hub) · [Forge](https://github.com/mobilcep/numex-forge) · [API](https://github.com/mobilcep/numex-api) · [SDK](https://github.com/mobilcep/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
+**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/numexai/numex-codex) · [Okul](https://github.com/numexai/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/numexai/numex-pedia) · [Hub](https://github.com/numexai/numex-hub) · [Forge](https://github.com/numexai/numex-forge) · [API](https://github.com/numexai/numex-api) · [SDK](https://github.com/numexai/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
 
-*İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/mobilcep/numex_nedir)
+*İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/numexai/numex_nedir)
 
 </div>
